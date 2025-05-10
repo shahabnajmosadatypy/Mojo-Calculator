@@ -16,7 +16,9 @@ This calculator supports the following operations:
 Make sure you have the Mojo environment set up on your system. Then, run the file using:
 
 git clone https://github.com/shahabnajmosadatypy/Mojo-Calculator
+
 magic shell
+
 mojo main.mojo
 
 If you have not set your Mojo environment yet:
